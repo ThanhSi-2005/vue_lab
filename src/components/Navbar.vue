@@ -15,7 +15,10 @@
         <li class="nav-item">
           <a class="nav-link" href="/about">About</a></li>
         <li class="nav-item">
-          <a class="nav-link" href="/form">Form</a></li>
+          <a class="nav-link" href="/form">LAB2_bai2,3,4</a></li>
+        <li class="nav-item">
+          <a class="nav-link" href="/lab2_b1">LAB2_bai1</a></li>
+
         
         <li class="nav-item">
           <a class="nav-link disabled">Disabled</a>
