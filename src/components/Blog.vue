@@ -1,10 +1,10 @@
 <template>
-  <h1>HOME PAGE</h1>
+  <h1>This is Blog page.....</h1>
 </template>
 
 <script>
 export default {
-  name: "HomePage",
+  name: "BlogPage",
 };
 </script>
 

@@ -1,11 +1,9 @@
 <template>
-  <h1>HOME PAGE</h1>
+  <h2>About Something...</h2>
 </template>
 
 <script>
 export default {
-  name: "HomePage",
+  name: "AboutVue",
 };
 </script>
-
-<style></style>
