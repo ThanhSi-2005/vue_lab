@@ -19,6 +19,8 @@
         <li class="nav-item">
           <a class="nav-link" href="/lab2_b1">LAB2_bai1</a></li>
 
+          <li class="nav-item">
+            <a class="nav-link" href="/lab3/canhanpage">Trang cá nhân</a></li>
         
         <li class="nav-item">
           <a class="nav-link disabled">Disabled</a>
