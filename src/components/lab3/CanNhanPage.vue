@@ -1,4 +1,5 @@
 <template>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <div class="container">
         <!-- <header class="row bg-warning p-2">Header</header> -->
 
@@ -167,7 +168,7 @@
             </article>
         </section>
 
-        <section class="container my-5">
+<section class="container my-5">
     <div class="row">
         <!-- Phần Đọc nhiều/Xem nhiều bên trái -->
         <div class="col-md-3">
