@@ -21,6 +21,18 @@
 
           <li class="nav-item">
             <a class="nav-link" href="/lab3/canhanpage">Trang cá nhân</a></li>
+          
+          <li class="nav-item">
+            <a class="nav-link" href="/lab6/bai1">Bài1_l6</a></li>
+          
+          <li class="nav-item">
+            <a class="nav-link" href="/lab6/bai2">Bài2_l6</a></li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="/lab6/bai3">Bài3_l6</a></li>
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/lab6/bai4">Bài4_l6</a></li>
         
         <li class="nav-item">
           <a class="nav-link disabled">Disabled</a>
