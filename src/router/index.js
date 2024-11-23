@@ -11,6 +11,10 @@ import Bai1_l6 from '@/components/lab6/bai1_l6.vue';
 import Bai2_l6 from '@/components/lab6/bai2_l6.vue';
 import Bai3_l6 from '@/components/lab6/bai3_l6.vue';
 import Bai4_l6 from '@/components/lab6/bai4_l6.vue';
+import Bai1_l5 from '@/components/lab5/bai1_l5.vue';
+import Bai2_l5 from '@/components/lab5/bai2_l5.vue';
+import Bai3_l5 from '@/components/lab5/bai3_l5.vue';
+import Bai4_l5 from '@/components/lab5/bai4_l5.vue';
 
 const routes = [
     { path: '/', component: HomePage },
@@ -25,6 +29,10 @@ const routes = [
     { path: '/lab6/bai2', component: Bai2_l6 },
     { path: '/lab6/bai3', component: Bai3_l6 },
     { path: '/lab6/bai4', component: Bai4_l6 },
+    { path: '/lab5/bai1', component: Bai1_l5 },
+    { path: '/lab5/bai2', component: Bai2_l5 },
+    { path: '/lab5/bai3', component: Bai3_l5 },
+    { path: '/lab5/bai4', component: Bai4_l5 },
 ];
 
 const router = createRouter({

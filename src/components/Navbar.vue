@@ -33,7 +33,20 @@
           
             <li class="nav-item">
               <a class="nav-link" href="/lab6/bai4">Bài4_l6</a></li>
-        
+
+
+            <li class="nav-item">
+              <a class="nav-link" href="/lab5/bai1">Bài1_l5</a></li>     
+              
+            <li class="nav-item">
+              <a class="nav-link" href="/lab5/bai2">Bài2_l5</a></li>    
+
+            <li class="nav-item">
+              <a class="nav-link" href="/lab5/bai3">Bài3_l5</a></li> 
+
+            <li class="nav-item">
+              <a class="nav-link" href="/lab5/bai4">Bài4_l5</a></li> 
+
         <li class="nav-item">
           <a class="nav-link disabled">Disabled</a>
         </li>
